@@ -497,8 +497,8 @@ body {
   display: flex;
 }
 .section-4-contents-2-left{
-  width: 50%;
-  height: 122.4rem;
+  width: 50vw;
+  height: 63.75vw;
   margin-top: 21.2rem;
   background-image: url('img/item_weapon.png');
   background-size: cover;
@@ -527,8 +527,8 @@ body {
 .section-4-contents-2-right{
   display: flex;
   flex-direction: column;
-  width: 50%;
-  margin-top: 38.8rem;
+  width: 50vw;
+  margin-top: 20.2vw;
 }
 .section-4-contents-2-sotitle-1{
   color: black;
@@ -789,8 +789,8 @@ body {
   margin-top: 30rem;
 }
 .section-5-contents-1-left{
-  width: 50%;
-  height: 97.6rem;
+  width: 50vw;
+  height: 50.83vw;
   background-image: url('img/ma-main.png');
   background-size: cover;
   background-position: center;
@@ -800,8 +800,8 @@ body {
   transition: 1s all ease-in-out;
 }
 .section-5-contents-1-right{
-  width: 50%;
-  height: 97.6rem;
+  width: 50vw;
+  height: 50.83vw;
   background-image: url('img/ma-sub.png');
   background-size: cover;
   background-position: center;
