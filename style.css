@@ -964,27 +964,27 @@ body {
   height: 4rem;
   background-color: red;
 }
-@media (min-width: 1280px) and (max-width: 1359px) {
+@media (min-width: 128rem) and (max-width: 135.9rem) {
   html{font-size: 41.66%;}
 }
-@media (min-width: 1360px) and (max-width: 1399px) {
+@media (min-width: 136rem) and (max-width: 139.9rem) {
   html{font-size: 44.27%;}
 }
-@media (min-width: 1400px) and (max-width: 1439px) {
+@media (min-width: 140rem) and (max-width: 143.9rem) {
   html{font-size: 45.57%;}
 }
-@media (min-width: 1440px) and (max-width: 1599px) {
+@media (min-width: 144rem) and (max-width: 159.9rem) {
   html{font-size: 46.875%;}
 }
-@media (min-width: 1600px) and (max-width: 1679px) {
+@media (min-width: 160rem) and (max-width: 167.9rem) {
   html{font-size: 52.08%;}
 }
-@media (min-width: 1680px) and (max-width: 1919px) {
+@media (min-width: 168rem) and (max-width: 191.9rem) {
   html{font-size: 54.68%;}
 }
-@media (min-width: 2560px) and (max-width: 3839px) {
+@media (min-width: 256rem) and (max-width: 383.9rem) {
   html{font-size: 83.33%;}
 }
-@media (min-width: 3840px){
+@media (min-width: 384rem){
   html{font-size: 125%;}
 }
